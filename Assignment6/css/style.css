@@ -1,0 +1,39 @@
+
+h3{
+  text-align: center;
+}
+.nav{
+  list-style-type: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color:black;
+}
+li a{
+  text-decoration: none;
+  color:black;
+  
+  
+}
+nav1{
+  color: red;
+}
+li{
+  float: left;
+  padding:10px;
+  padding-right:  20px;
+
+}
+.para1{
+  padding-top: 300px;
+  
+
+}
+#myBtn {
+  background-color: red;
+  color: white;
+}
+nav {
+  hover{
+    color: red;
+  }
+}
